@@ -7,7 +7,6 @@ In actual application, the fades are smoother. This is just a simple gif to demo
 
 ![little example picture thing](example.gif)
 <link href="css/gmt.css" rel="stylesheet" type="text/css">
-    <body id="circle" style="margin-top:15%">
         <div class="gmt-circle">
                 <div class="gmt-circle1 gmt-circle"></div>
                 <div class="gmt-circle2 gmt-circle"></div>
