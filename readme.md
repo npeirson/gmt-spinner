@@ -6,14 +6,3 @@ I made it for the GMACS Exposure Time Calculator, but figured it might be useful
 In actual application, the fades are smoother. This is just a simple gif to demo it. You can also just clone/download this repository and open the `demo.html` file therein.  
 
 ![little example picture thing](example.gif)
-<link href="css/gmt.css" rel="stylesheet" type="text/css">
-        <div class="gmt-circle">
-                <div class="gmt-circle1 gmt-circle"></div>
-                <div class="gmt-circle2 gmt-circle"></div>
-                <div class="gmt-circle3 gmt-circle"></div>
-                <div class="gmt-circle4 gmt-circle"></div>
-                <div class="gmt-circle5 gmt-circle"></div>
-                <div class="gmt-circle6 gmt-circle"></div>
-                <div class="gmt-circle-big gmt-circle"></div>
-                <div class="gmt-circle-small gmt-circle"></div>
-        </div>
